@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # A rebuild script that commits on a successful build
-set -e
 
 pushd ~/mysystem
 nvim -p home.nix nixos/configuration.nix flake.nix
