@@ -8,7 +8,6 @@ alejandra . &>/dev/null
 git diff -U0 *.nix
 echo "NixOS Rebuilding..."
 sudo nixos-rebuild switch --flake . --impure
-home-manager switch --flake . --impure
 current=$(nixos-rebuild list-generations | grep True | awk '{print $1}')
 git commit -am "$current"
 popd
