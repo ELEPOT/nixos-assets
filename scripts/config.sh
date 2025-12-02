@@ -2,7 +2,7 @@
 # A rebuild script that commits on a successful build
 
 pushd ~/mysystem
-nvim -p home.nix nixos/configuration.nix flake.nix
+nvim -p nixos-config/home.nix nixos-config/configuration.nix flake.nix
 alejandra . &>/dev/null
 git diff -U0 *.nix
 echo "NixOS Rebuilding..."
