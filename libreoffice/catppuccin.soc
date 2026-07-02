@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:color-table xmlns:office="http://openoffice.org/2000/office" xmlns:style="http://openoffice.org/2000/style" xmlns:text="http://openoffice.org/2000/text" xmlns:table="http://openoffice.org/2000/table" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="http://openoffice.org/2000/meta" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:svg="http://www.w3.org/2000/svg" xmlns:chart="http://openoffice.org/2000/chart" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="http://openoffice.org/2000/form" xmlns:script="http://openoffice.org/2000/script">
+
+<draw:color draw:name="Latte - Background"  draw:color="#eff1f5"/>
+<draw:color draw:name="Latte - Comment"     draw:color="#ccd0da"/>
+<draw:color draw:name="Latte - Foreground"  draw:color="#dc8a78"/>
+<draw:color draw:name="Latte - Green"       draw:color="#40a02b"/>
+<draw:color draw:name="Latte - Cyan"        draw:color="#04a5e5"/>
+<draw:color draw:name="Latte - Purple"      draw:color="#8839ef"/>
+<draw:color draw:name="Latte - Pink"        draw:color="#ea76cb"/>
+<draw:color draw:name="Latte - Red"         draw:color="#d20f39"/>
+<draw:color draw:name="Latte - Orange"      draw:color="#fe640b"/>
+<draw:color draw:name="Latte - Yellow"      draw:color="#df8e1d"/>
+
+<draw:color draw:name="Frappe - Background" draw:color="#303446"/>
+<draw:color draw:name="Frappe - Comment"    draw:color="#414559"/>
+<draw:color draw:name="Frappe - Foreground" draw:color="#f2d5cf"/>
+<draw:color draw:name="Frappe - Green"      draw:color="#a6d189"/>
+<draw:color draw:name="Frappe - Cyan"       draw:color="#99d1db"/>
+<draw:color draw:name="Frappe - Purple"     draw:color="#ca9ee6"/>
+<draw:color draw:name="Frappe - Pink"       draw:color="#f4b8e4"/>
+<draw:color draw:name="Frappe - Red"        draw:color="#e78284"/>
+<draw:color draw:name="Frappe - Orange"     draw:color="#ef9f76"/>
+<draw:color draw:name="Frappe - Yellow"     draw:color="#e5c890"/>
+
+<draw:color draw:name="Macchiato - Background" draw:color="#24273a"/>
+<draw:color draw:name="Macchiato - Comment"    draw:color="#363a4f"/>
+<draw:color draw:name="Macchiato - Foreground" draw:color="#f4dbd6"/>
+<draw:color draw:name="Macchiato - Green"      draw:color="#a6da95"/>
+<draw:color draw:name="Macchiato - Cyan"       draw:color="#91d7e3"/>
+<draw:color draw:name="Macchiato - Purple"     draw:color="#c6a0f6"/>
+<draw:color draw:name="Macchiato - Pink"       draw:color="#f5bde6"/>
+<draw:color draw:name="Macchiato - Red"        draw:color="#ed8796"/>
+<draw:color draw:name="Macchiato - Orange"     draw:color="#f5a97f"/>
+<draw:color draw:name="Macchiato - Yellow"     draw:color="#eed49f"/>
+
+<draw:color draw:name="Mocha - Background"  draw:color="#1e1e2e"/>
+<draw:color draw:name="Mocha - Comment"     draw:color="#313244"/>
+<draw:color draw:name="Mocha - Foreground"  draw:color="#f5e0dc"/>
+<draw:color draw:name="Mocha - Green"       draw:color="#a6e3a1"/>
+<draw:color draw:name="Mocha - Cyan"        draw:color="#89dceb"/>
+<draw:color draw:name="Mocha - Purple"      draw:color="#cba6f7"/>
+<draw:color draw:name="Mocha - Pink"        draw:color="#f5c2e7"/>
+<draw:color draw:name="Mocha - Red"         draw:color="#f38ba8"/>
+<draw:color draw:name="Mocha - Orange"      draw:color="#fab387"/>
+<draw:color draw:name="Mocha - Yellow"      draw:color="#f9e2af"/>
+
+</office:color-table>
