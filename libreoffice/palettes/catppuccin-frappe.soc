@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:color-table xmlns:office="http://openoffice.org/2000/office" xmlns:style="http://openoffice.org/2000/style" xmlns:text="http://openoffice.org/2000/text" xmlns:table="http://openoffice.org/2000/table" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="http://openoffice.org/2000/meta" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:svg="http://www.w3.org/2000/svg" xmlns:chart="http://openoffice.org/2000/chart" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="http://openoffice.org/2000/form" xmlns:script="http://openoffice.org/2000/script">
+<draw:color draw:name="Frappé - Rosewater" draw:color="#f2d5cf"/>
+<draw:color draw:name="Frappé - Flamingo" draw:color="#eebebe"/>
+<draw:color draw:name="Frappé - Pink" draw:color="#f4b8e4"/>
+<draw:color draw:name="Frappé - Mauve" draw:color="#ca9ee6"/>
+<draw:color draw:name="Frappé - Red" draw:color="#e78284"/>
+<draw:color draw:name="Frappé - Maroon" draw:color="#ea999c"/>
+<draw:color draw:name="Frappé - Peach" draw:color="#ef9f76"/>
+<draw:color draw:name="Frappé - Yellow" draw:color="#e5c890"/>
+<draw:color draw:name="Frappé - Green" draw:color="#a6d189"/>
+<draw:color draw:name="Frappé - Teal" draw:color="#81c8be"/>
+<draw:color draw:name="Frappé - Sky" draw:color="#99d1db"/>
+<draw:color draw:name="Frappé - Sapphire" draw:color="#85c1dc"/>
+<draw:color draw:name="Frappé - Blue" draw:color="#8caaee"/>
+<draw:color draw:name="Frappé - Lavender" draw:color="#babbf1"/>
+<draw:color draw:name="Frappé - Text" draw:color="#c6d0f5"/>
+<draw:color draw:name="Frappé - Subtext 1" draw:color="#b5bfe2"/>
+<draw:color draw:name="Frappé - Subtext 0" draw:color="#a5adce"/>
+<draw:color draw:name="Frappé - Overlay 2" draw:color="#949cbb"/>
+<draw:color draw:name="Frappé - Overlay 1" draw:color="#838ba7"/>
+<draw:color draw:name="Frappé - Overlay 0" draw:color="#737994"/>
+<draw:color draw:name="Frappé - Surface 2" draw:color="#626880"/>
+<draw:color draw:name="Frappé - Surface 1" draw:color="#51576d"/>
+<draw:color draw:name="Frappé - Surface 0" draw:color="#414559"/>
+<draw:color draw:name="Frappé - Base" draw:color="#303446"/>
+<draw:color draw:name="Frappé - Mantle" draw:color="#292c3c"/>
+<draw:color draw:name="Frappé - Crust" draw:color="#232634"/>
+<draw:color draw:name="Frappé - Bright Black" draw:color="#626880"/>
+<draw:color draw:name="Frappé - Bright Red" draw:color="#e67172"/>
+<draw:color draw:name="Frappé - Bright Green" draw:color="#8ec772"/>
+<draw:color draw:name="Frappé - Bright Yellow" draw:color="#d9ba73"/>
+<draw:color draw:name="Frappé - Bright Blue" draw:color="#7b9ef0"/>
+<draw:color draw:name="Frappé - Bright Magenta" draw:color="#f2a4db"/>
+<draw:color draw:name="Frappé - Bright Cyan" draw:color="#5abfb5"/>
+<draw:color draw:name="Frappé - Bright White" draw:color="#b5bfe2"/>
+</office:color-table>

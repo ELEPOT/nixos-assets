@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:color-table xmlns:office="http://openoffice.org/2000/office" xmlns:style="http://openoffice.org/2000/style" xmlns:text="http://openoffice.org/2000/text" xmlns:table="http://openoffice.org/2000/table" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="http://openoffice.org/2000/meta" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:svg="http://www.w3.org/2000/svg" xmlns:chart="http://openoffice.org/2000/chart" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="http://openoffice.org/2000/form" xmlns:script="http://openoffice.org/2000/script">
+<draw:color draw:name="Latte - Rosewater" draw:color="#dc8a78"/>
+<draw:color draw:name="Latte - Flamingo" draw:color="#dd7878"/>
+<draw:color draw:name="Latte - Pink" draw:color="#ea76cb"/>
+<draw:color draw:name="Latte - Mauve" draw:color="#8839ef"/>
+<draw:color draw:name="Latte - Red" draw:color="#d20f39"/>
+<draw:color draw:name="Latte - Maroon" draw:color="#e64553"/>
+<draw:color draw:name="Latte - Peach" draw:color="#fe640b"/>
+<draw:color draw:name="Latte - Yellow" draw:color="#df8e1d"/>
+<draw:color draw:name="Latte - Green" draw:color="#40a02b"/>
+<draw:color draw:name="Latte - Teal" draw:color="#179299"/>
+<draw:color draw:name="Latte - Sky" draw:color="#04a5e5"/>
+<draw:color draw:name="Latte - Sapphire" draw:color="#209fb5"/>
+<draw:color draw:name="Latte - Blue" draw:color="#1e66f5"/>
+<draw:color draw:name="Latte - Lavender" draw:color="#7287fd"/>
+<draw:color draw:name="Latte - Text" draw:color="#4c4f69"/>
+<draw:color draw:name="Latte - Subtext 1" draw:color="#5c5f77"/>
+<draw:color draw:name="Latte - Subtext 0" draw:color="#6c6f85"/>
+<draw:color draw:name="Latte - Overlay 2" draw:color="#7c7f93"/>
+<draw:color draw:name="Latte - Overlay 1" draw:color="#8c8fa1"/>
+<draw:color draw:name="Latte - Overlay 0" draw:color="#9ca0b0"/>
+<draw:color draw:name="Latte - Surface 2" draw:color="#acb0be"/>
+<draw:color draw:name="Latte - Surface 1" draw:color="#bcc0cc"/>
+<draw:color draw:name="Latte - Surface 0" draw:color="#ccd0da"/>
+<draw:color draw:name="Latte - Base" draw:color="#eff1f5"/>
+<draw:color draw:name="Latte - Mantle" draw:color="#e6e9ef"/>
+<draw:color draw:name="Latte - Crust" draw:color="#dce0e8"/>
+<draw:color draw:name="Latte - Bright Black" draw:color="#6c6f85"/>
+<draw:color draw:name="Latte - Bright Red" draw:color="#de293e"/>
+<draw:color draw:name="Latte - Bright Green" draw:color="#49af3d"/>
+<draw:color draw:name="Latte - Bright Yellow" draw:color="#eea02d"/>
+<draw:color draw:name="Latte - Bright Blue" draw:color="#456eff"/>
+<draw:color draw:name="Latte - Bright Magenta" draw:color="#fe85d8"/>
+<draw:color draw:name="Latte - Bright Cyan" draw:color="#2d9fa8"/>
+<draw:color draw:name="Latte - Bright White" draw:color="#bcc0cc"/>
+</office:color-table>

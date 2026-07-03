@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:color-table xmlns:office="http://openoffice.org/2000/office" xmlns:style="http://openoffice.org/2000/style" xmlns:text="http://openoffice.org/2000/text" xmlns:table="http://openoffice.org/2000/table" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="http://openoffice.org/2000/meta" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:svg="http://www.w3.org/2000/svg" xmlns:chart="http://openoffice.org/2000/chart" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="http://openoffice.org/2000/form" xmlns:script="http://openoffice.org/2000/script">
+<draw:color draw:name="Mocha - Rosewater" draw:color="#f5e0dc"/>
+<draw:color draw:name="Mocha - Flamingo" draw:color="#f2cdcd"/>
+<draw:color draw:name="Mocha - Pink" draw:color="#f5c2e7"/>
+<draw:color draw:name="Mocha - Mauve" draw:color="#cba6f7"/>
+<draw:color draw:name="Mocha - Red" draw:color="#f38ba8"/>
+<draw:color draw:name="Mocha - Maroon" draw:color="#eba0ac"/>
+<draw:color draw:name="Mocha - Peach" draw:color="#fab387"/>
+<draw:color draw:name="Mocha - Yellow" draw:color="#f9e2af"/>
+<draw:color draw:name="Mocha - Green" draw:color="#a6e3a1"/>
+<draw:color draw:name="Mocha - Teal" draw:color="#94e2d5"/>
+<draw:color draw:name="Mocha - Sky" draw:color="#89dceb"/>
+<draw:color draw:name="Mocha - Sapphire" draw:color="#74c7ec"/>
+<draw:color draw:name="Mocha - Blue" draw:color="#89b4fa"/>
+<draw:color draw:name="Mocha - Lavender" draw:color="#b4befe"/>
+<draw:color draw:name="Mocha - Text" draw:color="#cdd6f4"/>
+<draw:color draw:name="Mocha - Subtext 1" draw:color="#bac2de"/>
+<draw:color draw:name="Mocha - Subtext 0" draw:color="#a6adc8"/>
+<draw:color draw:name="Mocha - Overlay 2" draw:color="#9399b2"/>
+<draw:color draw:name="Mocha - Overlay 1" draw:color="#7f849c"/>
+<draw:color draw:name="Mocha - Overlay 0" draw:color="#6c7086"/>
+<draw:color draw:name="Mocha - Surface 2" draw:color="#585b70"/>
+<draw:color draw:name="Mocha - Surface 1" draw:color="#45475a"/>
+<draw:color draw:name="Mocha - Surface 0" draw:color="#313244"/>
+<draw:color draw:name="Mocha - Base" draw:color="#1e1e2e"/>
+<draw:color draw:name="Mocha - Mantle" draw:color="#181825"/>
+<draw:color draw:name="Mocha - Crust" draw:color="#11111b"/>
+<draw:color draw:name="Mocha - Bright Black" draw:color="#585b70"/>
+<draw:color draw:name="Mocha - Bright Red" draw:color="#f37799"/>
+<draw:color draw:name="Mocha - Bright Green" draw:color="#89d88b"/>
+<draw:color draw:name="Mocha - Bright Yellow" draw:color="#ebd391"/>
+<draw:color draw:name="Mocha - Bright Blue" draw:color="#74a8fc"/>
+<draw:color draw:name="Mocha - Bright Magenta" draw:color="#f2aede"/>
+<draw:color draw:name="Mocha - Bright Cyan" draw:color="#6bd7ca"/>
+<draw:color draw:name="Mocha - Bright White" draw:color="#bac2de"/>
+</office:color-table>
